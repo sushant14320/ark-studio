@@ -159,8 +159,9 @@ flex-wrap: wrap;
     .rights{
         
         flex-basis: 100%;
-        height: 0;
-        margin-left: 540px;   
+       /* height: 0;*/
+        margin-left: 565px;  
+        font-size: 15px; 
     }
     
     body{
