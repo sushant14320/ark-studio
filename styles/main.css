@@ -141,6 +141,7 @@ div{
 display: flex;
 background-color: grey;
 justify-content: space-around;
+margin-left: -65px;
 flex-wrap: wrap;
 
 
@@ -159,7 +160,7 @@ flex-wrap: wrap;
         
         flex-basis: 100%;
         height: 0;
-        margin-left: 490px;   
+        margin-left: 540px;   
     }
     
     body{
