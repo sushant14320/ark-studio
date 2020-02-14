@@ -21,9 +21,6 @@ a{
 img{
     margin-left: 85px;
 }
-/*#bodyimage{
-    background-image: url("C:\Users\Admin\Desktop\ark-studio\img\studio1.jpg");
-}*/
 
 .cta{
     padding: 11px;
@@ -168,3 +165,18 @@ flex-wrap: wrap;
     body{
        background-color: azure;        
     }
+
+    .fa fa-facebook{
+        background-color: #3B5998;
+        color: white;
+    }
+
+    .fa-twitter {
+        background: grey;
+        color: white;
+      }
+      
+      .fa-dribbble {
+        background: grey;
+        color: white;
+      }
